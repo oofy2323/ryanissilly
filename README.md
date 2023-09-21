@@ -1,1 +1,1 @@
-<html><link src="bcsd.org">test</link></html>
+<html><link src="bcsd.org">test</html>
