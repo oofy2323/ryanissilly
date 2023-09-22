@@ -7,7 +7,7 @@
 		<script type="text/javascript">
 			window.onload = document.getElementById("game")	
 		</script>
-		  <div id="1">1</div>
+		  <button id="1">1</button>
 		<script type="text/javascript">
 		var 1 = document.getElementById ("1") ;
 		var game = 0 ;
@@ -18,7 +18,7 @@
 		}
 		1.onclick = onClick ;
 		</script>
-		  <div id="2">2</div>
+		  <button id="2">2</button>
 		<script type="text/javascript">
 		var 2 = document.getElementById ("2") ;
 		var game = 0 ;
@@ -29,7 +29,7 @@
 		}
 		2.onclick = onClick ;
 		</script>
-  		  <div id="3">3</div>
+  		  <button id="3">3</button>
 		<script type="text/javascript">
 		var 3 = document.getElementById ("3") ;
 		var game = 0 ;
