@@ -3,7 +3,7 @@
 		ryan happens to be very silly
 	</head>
  	<body>
-		<button onclick="bcsd.org">
+		<button onclick="window.location.href='www.bcsd.org';">
 				test
 		</button>
 	</body>
