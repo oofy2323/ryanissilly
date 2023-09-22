@@ -5,7 +5,8 @@
  	<body>
 		<canvas id="stage" width="600" height="600"></canvas>
 		<script type="text/javascript">
-			window.onload = document.getElementById("game")	
+			window.onload = document.getElementById("playing")	
+			<!--IF VAR GAME = (whatever game) SETS ID OF THAT GAME TO PLAYING-->
 		</script>
 		  <button id="1">1</button>
 		<script type="text/javascript">
