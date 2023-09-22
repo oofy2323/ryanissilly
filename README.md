@@ -3,9 +3,7 @@
 		ryan happens to be very silly
 	</head>
  	<body>
-		<button onclick>
-			<link src="bcsd.org">
+		<button onclick="bcsd.org">
 				test
-			</link>
 		</button>
 	</body>
