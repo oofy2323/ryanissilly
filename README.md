@@ -3,15 +3,28 @@
 		ryan happens to be very silly
 	</head>
  	<body>
-		<button onclick="window.location.href='snake';">
-				snake?1
-		</button>
-	</body>
-	<body>
+		<button id="1">1</button>
+  		<button id="2">2</button>
+		
 		<canvas id="stage" width="600" height="600"></canvas>
 			<script type="text/javascript">
 			window.onload = function(){
-			document.getElementById('stage') = var href
-   			var href = https://www.google.com/fbx?fbx=snake_arcade
+				var game = button.getElementById
+			document.getElementById('stage') =
 			</script>
 	</body>
+ 	<body>
+		  <div id="3">3</div>
+		<script type="text/javascript">
+		var game = document.getElementById ("game") ;
+
+		var game = 0 ;
+		var onClick = function( e ) {
+ 		   console.log('game was ', game);
+		    game = 3 ;
+		    console.log('Now game = ' , game);
+		}
+
+		game.onclick = onClick ;
+		</script>
+  	</body>
