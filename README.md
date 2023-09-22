@@ -10,6 +10,8 @@
 	<body>
 		<canvas id="stage" width="600" height="600"></canvas>
 			<script type="text/javascript">
-			window.onload.href = https://www.google.com/fbx?fbx=snake_arcade
+			window.onload = function(){
+			document.getElementById('stage') = var href
+   			var href = https://www.google.com/fbx?fbx=snake_arcade
 			</script>
 	</body>
