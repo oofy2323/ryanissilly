@@ -4,6 +4,6 @@
 	</head>
  	<body>
 		<button onclick="window.location.href='www.bcsd.org';">
-				test
+				test1
 		</button>
 	</body>
