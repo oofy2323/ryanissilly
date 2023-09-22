@@ -3,7 +3,7 @@
 		ryan happens to be very silly
 	</head>
  	<body>
-		<button onclick="window.location.href='www.oofy2323.github.io/ryanissilly/snake';">
+		<button onclick="window.location.href='snake';">
 				snake?
 		</button>
 	</body>
