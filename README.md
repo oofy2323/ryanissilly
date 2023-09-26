@@ -46,6 +46,7 @@
 			</script>
 			test
 			<script type="text/javascript">
-			else hide
-		</script>
+			else ;
+			</script>
+			blank
   	</body>
