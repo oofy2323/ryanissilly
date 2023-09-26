@@ -43,7 +43,9 @@
 		</script>
 		<script type="text/javascript">
 		if var game = 3 ;
-			const string = "test" ;
-			console.log(string);
+			</script>
+			test
+			<script type="text/javascript">
+			else hide
 		</script>
   	</body>
