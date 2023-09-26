@@ -42,14 +42,3 @@
 		3.onclick = onClick ;
 		</script>
   	</body>
-<html>
-	<head>
-		<script type="text/javscript">
-		var game = 123;
-		</script>
-	</head>
-
-	<body>
-		<h1>"the value game for  is: " + game</h1>
-	</body>
-</html>
