@@ -43,7 +43,7 @@
 		</script>
 		<script type="text/javascript">
 		if var game = 3 ;
-		const string = "test" ;
-		console.log(string);
+			const string = "test" ;
+			console.log(string);
 		</script>
   	</body>
