@@ -41,4 +41,5 @@
 		}
 		3.onclick = onClick ;
 		</script>
+		<button>document.getElementById ("game")</button>
   	</body>
