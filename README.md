@@ -41,12 +41,4 @@
 		}
 		3.onclick = onClick ;
 		</script>
-		<script type="text/javascript">
-		if var game = 3 ;
-			</script>
-			test
-			<script type="text/javascript">
-			else ;
-			</script>
-			blank
   	</body>
