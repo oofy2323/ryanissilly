@@ -41,4 +41,9 @@
 		}
 		3.onclick = onClick ;
 		</script>
+		<button>
+			<script type="text/javascript">
+			var onClick = function( e ) {
+				window.onload
+		</button>
   	</body>
