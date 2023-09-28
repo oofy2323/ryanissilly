@@ -43,11 +43,12 @@
 		</script>
 		<button>
 			<script type="text/javascript">
-			var c = document.getElementById("stage") ;
-			var ctx = c.getContext("2d") ;
 			var onClick = function( e ) {
-				ctx.window.location = "lordsofdank.github.io/GetawayShootout/" }
-						</script>
+			var c = document.getElementById("stage") ;
+				c.window.location = "lordsofdank.github.io/GetawayShootout/" ;
+			}
+			c.onclick = onClick ;
+			</script>
 			getawaytest2
 		</button>
   	</body>
