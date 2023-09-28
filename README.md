@@ -49,6 +49,6 @@
 			}
 			c.onclick = onClick ;
 			</script>
-			getawaytest2
+			getawaytest3
 		</button>
   	</body>
