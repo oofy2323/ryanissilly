@@ -43,9 +43,11 @@
 		</script>
 		<button>
 			<script type="text/javascript">
+			var c = document.getElementById("stage") ;
+			var ctx = c.getContext("2d") ;
 			var onClick = function( e ) {
-				window.onload.href = lordsofdank.github.io/GetawayShootout/
+				c.window.location = lordsofdank.github.io/GetawayShootout/
 					</script>
-			getaway?
+			getaway
 		</button>
   	</body>
