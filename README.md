@@ -43,8 +43,8 @@
 		</script>
 		<button>
 			<script type="text/javascript">
-			var onClick = function( e ) {
 			var c = document.getElementById("stage") ;
+			var onClick = function( e ) {
 				c.window.location = "lordsofdank.github.io/GetawayShootout/" ;
 			}
 			c.onclick = onClick ;
