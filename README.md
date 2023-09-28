@@ -44,6 +44,8 @@
 		<button>
 			<script type="text/javascript">
 			var onClick = function( e ) {
-				window.onload
+				window.onload.href = lordsofdank.github.io/GetawayShootout/
+					</script>
+			getaway?
 		</button>
   	</body>
