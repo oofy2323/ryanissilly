@@ -48,6 +48,6 @@
 			var onClick = function( e ) {
 				window.location = "lordsofdank.github.io/GetawayShootout/"
 						</script>
-			getaway
+			getawaytest1
 		</button>
   	</body>
