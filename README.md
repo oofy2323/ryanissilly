@@ -46,8 +46,8 @@
 			var c = document.getElementById("stage") ;
 			var ctx = c.getContext("2d") ;
 			var onClick = function( e ) {
-				window.location = "lordsofdank.github.io/GetawayShootout/"
+				ctx.window.location = "lordsofdank.github.io/GetawayShootout/" }
 						</script>
-			getawaytest1
+			getawaytest2
 		</button>
   	</body>
