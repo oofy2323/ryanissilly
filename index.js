@@ -1,6 +1,6 @@
 var game;
 function choose(choice){
-    user = choice;
+    game = choice;
 }
 
 function test(click){
